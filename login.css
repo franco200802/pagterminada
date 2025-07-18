@@ -1,0 +1,23 @@
+
+body {
+    background-color: #f9f6f1;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.login-card {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+.btn-dark {
+    background-color: #1f1f1f;
+    border: none;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+.btn-dark:hover {
+    background-color: #444;
+}
